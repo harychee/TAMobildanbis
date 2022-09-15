@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bus</folder>
+	<filename>bus8.jpg</filename>
+	<path>C:\Users\chrstn_hry\Desktop\OD\Tensorflow OD\TFODCourse\Tensorflow\workspace\images\collectedimages\bus\bus8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>612</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>52</xmin>
+			<ymin>244</ymin>
+			<xmax>565</xmax>
+			<ymax>411</ymax>
+		</bndbox>
+	</object>
+</annotation>
