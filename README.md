@@ -2,9 +2,9 @@
 Deteksi Objek Mobil dan Bus menggunakan tensorflow object detection
 
 1.Untuk Melakukan annotation terhadap gambar sehingga menjadi seperti dataset yang tersedia pada dataset, dapat dilihat [disini](https://www.youtube.com/watch?v=Tlvy-eM8YO4)
+^^^^^^^^^^^^^^^^^^
 a). lakukan instalasi labelimg.py
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-.. code:: shell
 
     pip3 install labelImg
     labelImg
@@ -13,7 +13,6 @@ a). lakukan instalasi labelimg.py
 b). buka cmd dan pergi direktori labelImg
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. code:: shell
 
     pyrcc4 -o libs/resources.py resources.qrc
     For pyqt5, pyrcc5 -o libs/resources.py resources.qrc
@@ -32,3 +31,4 @@ b). buka cmd dan pergi direktori labelImg
 
 
 2.Untuk Models hasil training menggunakan dataset bisa dilihat [disini](https://drive.google.com/drive/folders/1fDf8EUF-Gu1I7idLb9EaXlxa0NKb4DuU?usp=sharing)
+^^^^^^^^^^^^^^^^^^
