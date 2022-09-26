@@ -22,8 +22,10 @@ b). buka cmd dan pergi direktori labelImg
     python labelImg.py [IMAGE_PATH] [PRE-DEFINED CLASS FILE]
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  c). lalu pilih direktori gambar dan pilih gambar yang akan di annotasi
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  d). tempatkan kotak serapat mungkin dengan objek yang di annotasi lalu labeli dengan nama objek yang telah ditetapkan
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  e). simpan dengan format XML.
  untuk informasi lebih lengkap seputar labelimg dapat dilihat [disini](https://github.com/heartexlabs/labelImg) 
